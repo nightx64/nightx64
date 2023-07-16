@@ -23,8 +23,8 @@ or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
 
 <div align="center">
 
-<img align="left" src="https://res.cloudinary.com/practicaldev/image/fetch/s--tvgVfPJ---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9vk6sv180zjndjzx8p28.jpeg">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nightx64&theme=great-gatsby)](https://git.io/streak-stats)
+<img align="center" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nightx64&theme=great-gatsby)](https://git.io/streak-stats)">
+
 
 </br>
 </br>
