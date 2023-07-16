@@ -1,48 +1,104 @@
-<div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-</div>
-
-<div align="center" width="50">
-
-<img align="center" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--_AGrXPbv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%253Fitemid%253D15828752">
-
-</div>
+# Konichiwa 👋
 
 <div align="center">
-
- <h3>Oi! Eu sou nightx64</h3>
-
-<i>Happy Coding!</i> 😊
-
-
-
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
 
-<div align="center">
-
-<img align="center" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nightx64&theme=great-gatsby)](https://git.io/streak-stats)">
-
-
+</br>
 </br>
 </br>
 
 
----
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
+# About ME 💬 :
 
-<i>Follow me around the web:</i><br>
+### - I'm 16 years old, I'm a Young Programmer, cybersecurity enthusiast in Brazil
 
-  <!-- <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-  <a target="_blank" href="https://www.instagram.com/absphreak/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
-  <a target="_blank" href="https://www.facebook.com/originalphreak/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
-  <a target="_blank" href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
-  <a target="_blank" href="https://dev.to/ABSphreak">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
-<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/nightsecurity2023" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/nightsecurity2023" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://dev.to/nightsecurity" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+### - Learning :
+- ✨ Data Structures & Algorithms
+- ✨ Generative Adversarial Networks
 
-</div>
+### - Hobbies : 
+- ✨ Gaming Addict
+- ✨ Watching Anime
+- ✨ Reading Light Novels
+- ✨ Badminton (Neighbourhood Professional XD)
 
+</br>
+</br>
+</br>
+
+
+
+# Languages & Tools 👨‍💻 🛠:
+</br>
+
+<p align="center">
+
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+</p>
+</br>
+</br>
+</br>
+
+
+
+# Contact Me :
+
+<p>
+ </br>
+
+
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
+<a href="mailto:ashutosh.saxena.2001@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
+</a>
+<a href="https://www.reddit.com/user/X_Ashutosh_X">
+  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
+</a>
+<a href="https://steamcommunity.com/profiles/76561198182224539/">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
+</a>
+ </p>
+ 
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=nightx64&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+
+*************
